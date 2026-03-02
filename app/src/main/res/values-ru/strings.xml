@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Тестовое приложение "</string>
+    <string name="button_skip">Пропустить</string>
+    <string name="title_correct">Верно!</string>
+    <string name="title_wrong">Не верно!</string>
+    <string name="button_continue">Продолжить</string>
+</resources>
